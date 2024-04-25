@@ -1,11 +1,1 @@
-Selamat Datang!
-Silahkan tekan tombol tiket!
-Silahkan Masuk!
-Terima Kasih!
-
-Members:
-Vincencius Christiano,
-Rendy Wirawan Tamrin,
-Stevanus Pungky,
-Christopher Darren, and
-Benaya Arlyanto
+This is a social media site to sign up, login and chat with your firends
